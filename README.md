@@ -3,6 +3,11 @@
 An iOS Application use to record and play sounds on iPhone/iPad. 
 -Wave animation while recording and playing
 
+## Screenshots
+
+![Screenshot Home](/Screenshots/1.png?raw=true "Optional Title")
+
+
 ## Installation
 
 1. Download the zip or clone the repo to your desired directory.
