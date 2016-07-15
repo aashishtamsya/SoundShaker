@@ -6,7 +6,9 @@ An iOS Application use to record and play sounds on iPhone/iPad.
 ## Screenshots
 
 ![Screenshot Home](/Screenshots/1.png?raw=true "Optional Title")
-
+![Screenshot Recording](/Screenshots/2.png?raw=true "Optional Title")
+![Screenshot Played](/Screenshots/3.png?raw=true "Optional Title")
+![Screenshot Shake](/Screenshots/4.png?raw=true "Optional Title")
 
 ## Installation
 
