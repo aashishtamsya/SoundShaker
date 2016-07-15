@@ -1,5 +1,5 @@
 # Sound Shaker
-[![Programming Language](https://img.shields.io/badge/language-objective--c-blue.svg)]()
+[![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
 [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
 
