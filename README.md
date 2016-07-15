@@ -7,13 +7,13 @@ An iOS Application use to record and play sounds on iPhone/iPad.
 -Wave animation while recording and playing
 
 ##Demo
-![DEMO](https://github.com/aashishtamsya/SoundShakerObjC/blob/master/Addtitional%20Resources/Demo/DEMO.gif)
+![DEMO](https://github.com/aashishtamsya/SoundShakerObjC/blob/master/Resources/Demo/DEMO.gif)
 ## Screenshots
 
-![Screenshot Home](Addtitional%20Resources/Screenshots/1.png?raw=true "Screenshot Home")
-![Screenshot Recording](Addtitional%20Resources/Screenshots/2.png?raw=true "Screenshot Recording")
-![Screenshot Played](Addtitional%20Resources/Screenshots/3.png?raw=true "Screenshot Played")
-![Screenshot Shake](Addtitional%20Resources/Screenshots/4.png?raw=true "Screenshot Shake")
+![Screenshot Home](Resources/Screenshots/1.png?raw=true "Screenshot Home")
+![Screenshot Recording](Resources/Screenshots/2.png?raw=true "Screenshot Recording")
+![Screenshot Played](Resources/Screenshots/3.png?raw=true "Screenshot Played")
+![Screenshot Shake](Resources/Screenshots/4.png?raw=true "Screenshot Shake")
 
 ## Installation
 
