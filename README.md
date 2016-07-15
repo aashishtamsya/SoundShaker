@@ -22,7 +22,7 @@ $ git clone [git-repo-url]
 
 ## Credits
 
-Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish)
+Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
 aashish.tamsya@gmail.com
 
 
