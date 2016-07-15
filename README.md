@@ -6,6 +6,8 @@
 An iOS Application use to record and play sounds on iPhone/iPad. 
 -Wave animation while recording and playing
 
+##Demo
+![DEMO](/Demo/Demo.gif?raw=true "Optional Title")
 ## Screenshots
 
 ![Screenshot Home](/Screenshots/1.png?raw=true "Optional Title")
