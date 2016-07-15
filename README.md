@@ -7,7 +7,7 @@ An iOS Application use to record and play sounds on iPhone/iPad.
 -Wave animation while recording and playing
 
 ##Demo
-![DEMO](Addtitional%20Resources/Demo/Demo.gif?raw=true "DEMO")
+![DEMO](https://github.com/aashishtamsya/SoundShakerObjC/blob/master/Addtitional%20Resources/Demo/DEMO.gif)
 ## Screenshots
 
 ![Screenshot Home](Addtitional%20Resources/Screenshots/1.png?raw=true "Screenshot Home")
