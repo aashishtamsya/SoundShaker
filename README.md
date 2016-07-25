@@ -1,4 +1,4 @@
-# Sound Shaker
+<img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
 
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
