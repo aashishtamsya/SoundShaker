@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
+<img src="https://github.com/aashishtamsya/SoundShaker/blob/master/Resources/Logo.png">
 
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
