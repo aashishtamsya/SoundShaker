@@ -23,7 +23,7 @@ An iOS Application use to record and play sounds on iPhone/iPad.
 1. Download the zip or clone the repo to your desired directory.
 
 ```sh
-$ git clone [git-repo-url] 
+$ git clone https://github.com/aashishtamsya/SoundShaker.git 
 ```
 
 ## Contributing
