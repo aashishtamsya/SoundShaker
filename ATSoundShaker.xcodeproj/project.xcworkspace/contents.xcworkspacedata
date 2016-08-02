@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:felix-soundshaker.xcodeproj">
+      location = "self:ATSoundShaker.xcodeproj">
    </FileRef>
 </Workspace>

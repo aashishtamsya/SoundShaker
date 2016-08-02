@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>felix-soundshaker.xcscheme</key>
+		<key>ATSoundShaker.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E17AE47A1D38A0EE00E44134</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E17AE4931D38A0EF00E44134</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E17AE49E1D38A0EF00E44134</key>
+		<key>F3A62E5E1D5079FE00BB3350</key>
 		<dict>
 			<key>primary</key>
 			<true/>

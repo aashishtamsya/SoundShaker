@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E17AE47A1D38A0EE00E44134"
-               BuildableName = "felix-soundshaker.app"
-               BlueprintName = "felix-soundshaker"
-               ReferencedContainer = "container:felix-soundshaker.xcodeproj">
+               BlueprintIdentifier = "F3A62E5E1D5079FE00BB3350"
+               BuildableName = "ATSoundShaker.app"
+               BlueprintName = "ATSoundShaker"
+               ReferencedContainer = "container:ATSoundShaker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E17AE4931D38A0EF00E44134"
-               BuildableName = "felix-soundshakerTests.xctest"
-               BlueprintName = "felix-soundshakerTests"
-               ReferencedContainer = "container:felix-soundshaker.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E17AE49E1D38A0EF00E44134"
-               BuildableName = "felix-soundshakerUITests.xctest"
-               BlueprintName = "felix-soundshakerUITests"
-               ReferencedContainer = "container:felix-soundshaker.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E17AE47A1D38A0EE00E44134"
-            BuildableName = "felix-soundshaker.app"
-            BlueprintName = "felix-soundshaker"
-            ReferencedContainer = "container:felix-soundshaker.xcodeproj">
+            BlueprintIdentifier = "F3A62E5E1D5079FE00BB3350"
+            BuildableName = "ATSoundShaker.app"
+            BlueprintName = "ATSoundShaker"
+            ReferencedContainer = "container:ATSoundShaker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E17AE47A1D38A0EE00E44134"
-            BuildableName = "felix-soundshaker.app"
-            BlueprintName = "felix-soundshaker"
-            ReferencedContainer = "container:felix-soundshaker.xcodeproj">
+            BlueprintIdentifier = "F3A62E5E1D5079FE00BB3350"
+            BuildableName = "ATSoundShaker.app"
+            BlueprintName = "ATSoundShaker"
+            ReferencedContainer = "container:ATSoundShaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E17AE47A1D38A0EE00E44134"
-            BuildableName = "felix-soundshaker.app"
-            BlueprintName = "felix-soundshaker"
-            ReferencedContainer = "container:felix-soundshaker.xcodeproj">
+            BlueprintIdentifier = "F3A62E5E1D5079FE00BB3350"
+            BuildableName = "ATSoundShaker.app"
+            BlueprintName = "ATSoundShaker"
+            ReferencedContainer = "container:ATSoundShaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

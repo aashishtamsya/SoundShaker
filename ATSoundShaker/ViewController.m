@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  felix-soundshaker
+//  ATSoundShaker
 //
-//  Created by Felix ITs 01 on 15/07/16.
+//  Created by Aashish Tamsya on 15/07/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -50,7 +50,7 @@
     //setting audio file path
     NSArray *pathComponents = [NSArray arrayWithObjects:[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject],@"MyAudioMemo.m4a", nil];
     NSURL *outputFileURL = [NSURL fileURLWithPathComponents:pathComponents];
-
+    
     return outputFileURL;
 }
 
@@ -62,7 +62,7 @@
 }
 
 -(NSMutableDictionary *)setupRecorderSettings{
-
+    
     //defining the recorder settings
     NSMutableDictionary *recordSetting = [[NSMutableDictionary alloc]init];
     [recordSetting setValue:[NSNumber numberWithInt:kAudioFormatMPEG4AAC] forKey:AVFormatIDKey];
@@ -142,7 +142,7 @@
 - (void) audioRecorderDidFinishRecording:(AVAudioRecorder *)avrecorder successfully:(BOOL)flag{
     
     [self.buttonRecord setImage:[UIImage imageNamed:@"microphone"] forState:UIControlStateNormal];
-
+    
     
     [self.buttonStop setEnabled:NO];
     [self.buttonPlay setEnabled:YES];
@@ -165,11 +165,11 @@
     else if (recorder.recording) {
         [recorder updateMeters];
         normalizedValue = [self _normalizedPowerLevelFromDecibels:[recorder averagePowerForChannel:0]];
-
+        
     }
     
     [self.wave updateWithLevel:normalizedValue];
-
+    
 }
 
 - (CGFloat)_normalizedPowerLevelFromDecibels:(CGFloat)decibels
@@ -179,7 +179,7 @@
     }
     
     return powf((powf(10.0f, 0.05f * decibels) - powf(10.0f, 0.05f * -60.0f)) * (1.0f / (1.0f - powf(10.0f, 0.05f * -60.0f))), 1.0f / 2.0f);
-
+    
 }
 
 - (void)motionEnded:(UIEventSubtype)motion withEvent:(UIEvent *)event
