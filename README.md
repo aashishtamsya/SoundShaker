@@ -3,7 +3,8 @@
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
 [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
 
 An iOS Application use to record and play sounds on iPhone/iPad. 
 -Wave animation while recording and playing
@@ -22,7 +23,7 @@ An iOS Application use to record and play sounds on iPhone/iPad.
 1. Download the zip or clone the repo to your desired directory.
 
 ```sh
-$ git clone [git-repo-url] 
+$ git clone https://github.com/aashishtamsya/SoundShaker.git 
 ```
 
 ## Contributing
@@ -42,4 +43,6 @@ aashish.tamsya@gmail.com
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The content of [*Sound Shaker*](https://github.com/aashishtamsya/SoundShaker) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+See the [LICENSE](LICENSE.md) file for more info.
